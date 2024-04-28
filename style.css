@@ -1,0 +1,52 @@
+
+
+header {
+    background-color:aqua;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    border: 2px solid #ccc;
+}
+
+section {
+    background-color: #dcdcdc;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    border: 1px solid #5e5e5e;
+
+
+}
+
+.pie {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    text-align: right;
+    
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column-reverse;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+    flex-direction: row-reverse;
+    gap: 10px;
+    width: 50%;
+    
+}
+
+
+
+
+
